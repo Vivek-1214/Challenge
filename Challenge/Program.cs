@@ -107,7 +107,7 @@ namespace Challenges {
 
             int rem = 0; 
            
-            int[] arr = new int[10];
+            int[] arr = new int[10];  //IndexOutOfRangeException//
             int i = 0;
             while ( num1 != 0)
             {
